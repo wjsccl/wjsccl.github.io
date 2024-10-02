@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://wjsccl/wjsccl.github.io
+url: https://wjsccl.github.io
 date_format: "ordinal"
 title: 编程录
 subtitle: "等xb3"
